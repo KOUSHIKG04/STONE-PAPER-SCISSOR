@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:wght@200;300&display=swap');
+
+* {
+    margin: 0; padding: 0;
+}
+
+h2,h5,
+footer{
+    font-family: 'Indie Flower', cursive;
+    line-height: 5rem;
+}
+
+
+.choice {
+    height: 200px; width: 200px;
+    gap: 1rem;
+    opacity: 0.5;
+}
+
+.choice:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+
+img {
+    height: 150px;width: 150px;
+    object-fit: cover;
+}
+
+
+.comp-choice {
+    height: 200px; width: 200px;
+}
+
+.points {
+    font-size: 40px;
+}
+
+.btn {
+    font-family: 'Indie Flower', cursive;
+}
+
+.score-board {
+    gap: 3rem;
+}
+
+
+body{
+    background-color: #fcefef00;
+}
+
+.score-board{
+    font-family: 'Indie Flower', cursive;
+    font-weight: 500;
+}
+
+.players{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+
+
+.msg-container{
+    margin-top: 1rem;
+    background: #feffff;
+    color:black;
+    font-family: 'Indie Flower', cursive;
+    line-height: 3rem;
+    font-size: 1.5rem;
+}
+
+
+h2{
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    font-weight: 500;
+    line-height: 5rem;
+    color: var(--bs-heading-color);
+}
+
+
+
+
+
