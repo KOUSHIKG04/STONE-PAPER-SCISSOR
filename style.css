@@ -6,7 +6,8 @@
 
 h2,h5,
 footer{
-    font-family: 'Indie Flower', cursive;
+/*     font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
     line-height: 5rem;
 }
 
@@ -38,7 +39,8 @@ img {
 }
 
 .btn {
-    font-family: 'Indie Flower', cursive;
+/*     font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
 }
 
 .score-board {
@@ -51,7 +53,8 @@ body{
 }
 
 .score-board{
-    font-family: 'Indie Flower', cursive;
+/*     font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
     font-weight: 500;
 }
 
